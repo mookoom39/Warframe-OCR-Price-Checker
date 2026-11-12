@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34702052/README.md)
+[README.md](https://github.com/user-attachments/files/34725753/README.md)
 # Warframe Clipboard Price Checker
 
 **🇬🇧 English** · [🇷🇺 Русская версия ниже](#-русская-версия)
@@ -26,6 +26,22 @@ That's it. On the first launch the app downloads the full item list from Warfram
 3. Wait a few seconds — you get prices for every recognized item and a total.
 
 **Tips:** bigger text on the screenshot = better accuracy; a smaller selected area = faster. Press **Update database** every few weeks to get newly released items.
+
+## Screenshots
+
+**1. Select the area with items in the game** (`Win+Shift+S`) — relic rewards, inventory, mods, arcanes, Prime parts:
+
+<img src="screenshots/1-game-screenshot.png" alt="Game screenshot with Prime parts" width="720">
+
+**2. Paste it into the app** (`Ctrl+V`) — the program reads the item names:
+
+<img src="screenshots/2-recognition-en.png" alt="Recognized text" width="720">
+
+**3. Get prices for every item and the total value**, with a Copy button and a Market link for each one:
+
+<img src="screenshots/3-prices-en.png" alt="Prices and total" width="720">
+
+*(The game screenshot is from the Russian game client, so the recognized item names are in Russian. The app works with the English client too, and the interface language is switched with the RU / EN button.)*
 
 ## Features
 
@@ -108,6 +124,22 @@ The result is in `dist\WF_Price_Checker\` — zip the whole folder and attach it
 3. Подождите несколько секунд — появятся цены на каждый распознанный предмет и общий итог.
 
 **Советы:** чем крупнее текст на скриншоте, тем точнее результат; чем меньше выделенная область, тем быстрее. Раз в несколько недель нажимайте **«Обновить базу»**, чтобы подтянулись новые предметы.
+
+## Скриншоты
+
+**1. Выделите в игре область с предметами** (`Win+Shift+S`) — награды реликвий, инвентарь, моды, мистификаторы, прайм-части:
+
+<img src="screenshots/1-game-screenshot.png" alt="Скриншот из игры с прайм-частями" width="720">
+
+**2. Вставьте в программу** (`Ctrl+V`) — программа прочитает названия предметов:
+
+<img src="screenshots/2-recognition-ru.png" alt="Распознанный текст" width="720">
+
+**3. Получите цены на каждый предмет и общий итог**, с кнопкой «Копировать» и ссылкой на Market у каждого:
+
+<img src="screenshots/3-prices-ru.png" alt="Цены и итог" width="720">
+
+*(На скриншотах русский интерфейс; на английский переключается кнопкой RU / EN.)*
 
 ## Возможности
 
